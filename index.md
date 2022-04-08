@@ -2,14 +2,14 @@
 
 ---
 
-### Category Name 1 
+### Data Analysis 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Water Droplet Analysis](/prjs/sample_page)
+<img src="images/Figure_8.png?raw=true"/>
 
 ---
-[Project 2 Title](/pdf/sample_presentation.pdf)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Multivariate Linear Regression for Partial Molar Volumes](/prjs/sample_page)#(/pdf/sample_presentation.pdf)
+<img src="images/mlr.jpg?raw=true"/>
 
 ---
 [Project 3 Title](http://example.com/)
