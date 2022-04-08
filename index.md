@@ -4,7 +4,7 @@
 
 ### Data Analysis 
 
-[Water Droplet Analysis](/prjs/sample_page.md)
+[Water Droplet Analysis](/prjs/WaterDrop.md)
 <img src="images/Figure_8.png?raw=true"/>
 
 ---
