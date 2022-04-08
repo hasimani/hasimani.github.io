@@ -8,7 +8,7 @@
 <img src="images/Figure_8.png?raw=true"/>
 
 ---
-[Multivariate Linear Regression for Partial Molar Volumes](/prjs/sample_page)
+[Multivariate Linear Regression for Partial Molar Volumes](/prjs/PMV.md)
 <img src="images/mlr.png?raw=true"/>
 
 ---
