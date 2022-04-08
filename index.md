@@ -12,8 +12,8 @@
 <img src="images/mlr.png?raw=true"/>
 
 ---
-[Project 3 Title](http://example.com/)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Time Series Prediction Using Autoregression](/prjs/Note1.html)
+<img src="images/autoreg.png?raw=true"/>
 
 ---
 
