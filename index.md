@@ -9,7 +9,7 @@
 
 ---
 [Multivariate Linear Regression for Partial Molar Volumes](/prjs/PMV.md)
-<img src="images/mlr.png?raw=true"/>
+<img src="images/sampling.drawio.png?raw=true"/>
 
 ---
 [Time Series Prediction Using Autoregression](/prjs/Note1.html)
