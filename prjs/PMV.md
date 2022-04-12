@@ -3,4 +3,4 @@
 **Project description:** 
 For more details see the [source code](https://github.com/hasimani/MLRforPMV).
 
-<img src="images/blobs.png?raw=true">
+<img src="images/sampling.drawio.png?raw=true">
