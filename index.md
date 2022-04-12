@@ -5,7 +5,7 @@
 ### Data Analysis 
 
 [Water Droplet Analysis](/prjs/WaterDrop.md)
-<img src="images/Figure_8.png?raw=true"/>
+<img src="images/pap.png?raw=true"/>
 
 ---
 [Multivariate Linear Regression for Partial Molar Volumes](/prjs/PMV.md)
