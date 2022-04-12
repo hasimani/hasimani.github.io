@@ -5,4 +5,4 @@
 
 For more details see the [journal paper](https://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.1c03358) that was published based on this project and [source code](https://github.com/fjavadi/Pose-and-Appearance-Disentanglement).
 
-<img src="images/blobs.png?raw=true">
+<img src="images/pap.png?raw=true">
