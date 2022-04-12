@@ -1,8 +1,8 @@
 ## Data Mining Guided Molecular Investigations on the Coalescence of Water Droplets
 
-**Project description:** In this work, a series of molecular dynamics simulations were performed to investigate the simultaneity of model asphaltene aggregation/adsorption and water-in-oil droplet coalescence. Asphaltene was represented using violanthrone-79 (VO-79), a widely employed proxy in the literature, and the oil phase was mimicked using pentane solvents to magnify aggregation and adsorption. The mutual effects of water and VO-79 on each other were then extensively discussed. It was found that increasing the sizes of water droplets leads to a nonmonotonic trend in the prevalence of parallel stacking among polyaromatic cores of VO-79 molecules, which is resultant from the competing effects of aggregation and adsorption. An in-house developed tool was then employed to probe the coalescence mode of water droplets under the influence of VO-79 molecules. A detailed review of simulation trajectories revealed that the growth of water droplets is dominant by using the largest droplet as the nucleus site. The results reported here can greatly help to enrich our understandings of the collective behaviors of all species in multiphase systems, and the method developed can be extended to many other applications where emulsion formations are involved.
+**Project description:** In this work, the mutual effects of water and asphaltene on each other were discussed. The trajectories of water molecules in various systems were processed to extract nearly 5000 snapshots consisting of 300 to 900 water molecules. The position of these molecules in each snapshot were then mapped to the nodes of a graph \(G\) analysis was performed
 
 
-For more details see the [journal paper](https://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.1c03358) that was published based on this project and [source code](https://github.com/fjavadi/Pose-and-Appearance-Disentanglement).
+For more details see the [journal paper](https://pubs.acs.org/doi/abs/10.1021/acs.energyfuels.1c03358) that was published based on this project.
 
 <img src="images/pap.png?raw=true">
