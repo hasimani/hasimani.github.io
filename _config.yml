@@ -1,11 +1,10 @@
 title: Hassan Imani Parashkooh # your name (or website title) here
 logo: "/images/logo.jpeg?raw=true" # your photo (or logo) here
 description: > # your text below (remove <br> elements if you don't need line breaks)
-  Mechanical Engineering Graduate Student
-  <br><br>
-  Data Analysis Enthusiast
+  Engineering Graduate Student
   <br><br>
   <a href="https://www.linkedin.com/in/hasan-imani-parashkooh/">View My LinkedIn Profile</a> 
+  <br><br>
   <a href="https://github.com/hasimani/hasimani.github.io/blob/master/pdf/CV_imani.pdf/">View My CV</a> 
 
 theme: jekyll-theme-minimal
