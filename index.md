@@ -15,9 +15,6 @@
 [Time Series Prediction Using Autoregression](/prjs/Note1.html)
 <img src="images/autoreg.png?raw=true"/>
 
----
-[GNN](/prjs/pcvae.md)
-<img src="images/Picture1.png?raw=true"/>
 
 
 
