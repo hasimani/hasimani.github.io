@@ -20,7 +20,7 @@ logp(x)=log∫p(x,z)dz=log∫qϕ​(z∣x)qϕ​(z∣x)pθ​(x,z)​dz
 By Jensen's inequality, since the logarithm is a concave function, we have:  
 logp(x)≥∫qϕ​(z∣x)logqϕ​(z∣x)pθ​(x,z)​dz=LVAE​(θ,ϕ;x)  
 This lower bound, LVAE​, can be rearranged into a more intuitive form that highlights the core trade-off in the VAE objective 2:  
-LVAE​(θ,ϕ;x)=Ez∼qϕ​(z∣x)​\[logpθ​(x∣z)\]−DKL​(qϕ​(z∣x)∣∣p(z))  
+$LVAE​(θ,ϕ;x)=Ez∼qϕ​(z∣x)​\[logpθ​(x∣z)\]−DKL​(qϕ​(z∣x)∣∣p(z))$
 The VAE is trained by maximizing this ELBO. The objective consists of two terms:
 
 1. **The Reconstruction Term:** Ez∼qϕ​(z∣x)​\[logpθ​(x∣z)\] encourages the decoder to accurately reconstruct the input x from latent codes z sampled from the encoder's output distribution. This term pushes the model toward high-fidelity data representation.  
